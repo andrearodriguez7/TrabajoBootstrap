@@ -1,0 +1,44 @@
+.about-section h3 {
+    color: #333;
+  }
+
+.col-6{
+    text-align: justify;
+}
+  
+.cards-section .card {
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+.cards-section .card img {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+
+  .contenedorimagen {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+  }
+  .imagen {
+    display: inline-block;
+    vertical-align: top;
+  }
+  .imagen img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  .información {
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 20px;
+    text-align: left;
+  }
+  .información h2 {
+    margin-top: 0;
+  }
+
